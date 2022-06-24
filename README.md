@@ -8,7 +8,7 @@ _Примеры моих работ:_
 - [Приложение по учёту личных финансов](https://github.com/LLStudent83/bhj-diploma/ "Основы JS в браузере")
 - [Онлайн игра](https://github.com/LLStudent83/js-advanced-diplom/ "Продвинутый JS")
 - [Мессенджер](https://github.com/LLStudent83/AHJ_diplom_messenger/ "Продвинутый JS в браузере")
-- [Простой прайс лист](https://github.com/LLStudent83/redux-fetch-router-thunk/ "React-router v6, Redux-thunk")
+- [Простой прайс лист](https://github.com/LLStudent83/redux-fetch-router-thunk/ "React, React-router v6, Redux-thunk, RTK")
 
 _Мои сертификаты:_
 - [Верстка первого макета](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/сертификат%20первый%20макет.pdf)
