@@ -10,5 +10,9 @@ _Примеры моих работ:_
 - [Мессенджер](https://github.com/LLStudent83/AHJ_diplom_messenger/ "Репозиторий с проектом")
 
 _Мои сертификаты:_
+- [Верстка первого макета](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/сертификат%20первый%20макет.pdf)
+- [Основы программирования](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/Сертификат%20основы%20программирования.pdf)
+- [Основы JS в браузере](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/Сертификат%20основы%20JS%20в%20браузере.pdf)
+- [Продвинутый JS в браузере](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/Сертификат%20продвинутый%20JS%20в%20браузере.pdf)
+- [Продвинутый JS современные возможности языка](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/Сертификат%20продвинутый%20JS%20современные%20возможности%20языка.pdf)
 - [React](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/Сертификат%20React.pdf/)
-- 
