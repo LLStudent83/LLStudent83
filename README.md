@@ -3,7 +3,7 @@ __Привет !__
 Я Пригульнов Дмитрий, начинающий frontend разработчик.
 
 Примеры моих работ
-- 
+- [Адаптивная и мобильная верстка](https://llstudent83.github.io/adaptive-layout/ "Репозиторий с проектом")
 - 👀 I’m interested in JavaScript, React
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
