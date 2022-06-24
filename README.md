@@ -16,3 +16,6 @@ _Мои сертификаты:_
 - [Продвинутый JS в браузере](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/Сертификат%20продвинутый%20JS%20в%20браузере.pdf)
 - [Продвинутый JS современные возможности языка](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/Сертификат%20продвинутый%20JS%20современные%20возможности%20языка.pdf)
 - [React](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/Сертификат%20React.pdf/)
+
+_Моя программа обучения:_
+[программа обучения по направлению Веб разработчик с ноля](https://netology.ru/programs/web-developer#/modul_1)
