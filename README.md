@@ -4,10 +4,10 @@ __Привет !__
 Я начинающий frontend разработчик.
 
 _Примеры моих работ:_
-- [Адаптивная и мобильная верстка](https://github.com/LLStudent83/adaptive-layout/ "Репозиторий с проектом")
-- [Приложение по учёту личных финансов](https://github.com/LLStudent83/bhj-diploma/ "Репозиторий с проектом")
-- [Онлайн игра](https://github.com/LLStudent83/js-advanced-diplom/ "Репозиторий с проектом")
-- [Мессенджер](https://github.com/LLStudent83/AHJ_diplom_messenger/ "Репозиторий с проектом")
+- [Адаптивная и мобильная верстка](https://github.com/LLStudent83/adaptive-layout/ "Практиковался с HTML и CSS")
+- [Приложение по учёту личных финансов](https://github.com/LLStudent83/bhj-diploma/ "Основы JS в браузере")
+- [Онлайн игра](https://github.com/LLStudent83/js-advanced-diplom/ "Продвинутый JS")
+- [Мессенджер](https://github.com/LLStudent83/AHJ_diplom_messenger/ "Продвинутый JS в браузере")
 
 _Мои сертификаты:_
 - [Верстка первого макета](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/сертификат%20первый%20макет.pdf)
