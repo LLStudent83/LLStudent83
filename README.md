@@ -9,3 +9,6 @@ _Примеры моих работ:_
 - [Онлайн игра](https://github.com/LLStudent83/js-advanced-diplom/ "Репозиторий с проектом")
 - [Мессенджер](https://github.com/LLStudent83/AHJ_diplom_messenger/ "Репозиторий с проектом")
 
+_Мои сертификаты:_
+- [React](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/Сертификат%20React.pdf/)
+- 
