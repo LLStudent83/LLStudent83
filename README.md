@@ -18,4 +18,4 @@ _Мои сертификаты:_
 - [React](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/Сертификат%20React.pdf/)
 
 _Моя программа обучения:_
-[программа обучения по направлению Веб разработчик с ноля](https://netology.ru/programs/web-developer#/modul_1)
+[программа обучения по направлению Веб разработчик с нуля](https://netology.ru/programs/web-developer#/modul_1)
