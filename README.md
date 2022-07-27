@@ -4,7 +4,8 @@ __Привет !__
 Я начинающий frontend разработчик.
 
 _Примеры моих работ:_
-- [Адаптивная и мобильная верстка](https://github.com/LLStudent83/adaptive-layout/ "Практиковался с HTML и CSS")
+- [Адаптивная и мобильная верстка из Photoshop](https://github.com/LLStudent83/adaptive-layout/ "Практиковался с HTML и CSS")
+- [Адаптивная верстка резюме из Figma](https://llstudent83.github.io/business_card_1/)
 - [Приложение по учёту личных финансов](https://github.com/LLStudent83/bhj-diploma/ "Основы JS в браузере")
 - [Онлайн игра](https://github.com/LLStudent83/js-advanced-diplom/ "Продвинутый JS")
 - [Мессенджер](https://github.com/LLStudent83/AHJ_diplom_messenger/ "Продвинутый JS в браузере")
