@@ -1,38 +1,53 @@
-__Привет !__
+<h1 align="center">Привет! Я Дмитрий 👋</h1>
 
-Меня зовут Пригульнов Дмитрий.
-Я frontend разработчик. Пишу на React c 2021 года, с 2022 года занимаюсь промышленной разработкой.
+<p align="center">
+  <b>Frontend-разработчик (React)</b><br/>
+  Пишу на React с 2021 года, промышленная разработка — с 2022 года
+</p>
 
-_Примеры моих работ учебных и не только:_ 
-React
-- [Игра где на время нужно собраить шарики](https://balls.priguli.ru/ "React-19")
-  Стэк: React-router v7, Zustend, Zod, Orval, Sadcn, React Query
-  Репозитории проекта:
-    https://github.com/LLStudent83/balls_js - фронт
-    https://github.com/LLStudent83/back_bouncing_balls - бэк
+---
+
+## 🚀 Обо мне
+
+- ⚛️ Разрабатываю SPA и сложные интерфейсы на React + TypeScript  
+- 🧩 Опыт с React Router v6/v7, Redux / RTK, RTK Query, React Query, Zustand, Shadcn  
+- 🧼 Есть опыт с картами Leaflet, таблицами React Table, Web Socket, FSD  
+- 📡 Уверенно работаю с REST API, валидацией (Zod), генерацией API (Orval)  
+- 🎨 Верстаю адаптивно и аккуратно (HTML, CSS, Figma → layout)
   
-- [Простой прайс лист](https://llstudent83.github.io/redux-fetch-router-thunk/ "React, React-router v6, Redux-thunk, RTK")
-- [Тестовое задание - "приложение поиска городов". Применил: "React, Redux-thunk, RTK", Reakt-Table](https://llstudent83.github.io/city_search/ "React, Redux-thunk, RTK")
+### 🚀 Изучаю:
 
-HTML CSS
-- [Адаптивная и мобильная верстка из Photoshop](https://github.com/LLStudent83/adaptive-layout/ "Практиковался с HTML и CSS")
-- [Адаптивная верстка резюме из Figma](https://llstudent83.github.io/business_card_1/)
+- 📡 NestJS, Next.js
 
-HTML CSS JS
-- [Адаптивная и мобильная верстка сайта блога из Figma](https://llstudent83.github.io/website-about-John/index.html)
-- [Приложение по учёту личных финансов](https://github.com/LLStudent83/bhj-diploma/ "Основы JS в браузере")
-- [Онлайн игра](https://github.com/LLStudent83/js-advanced-diplom/ "Продвинутый JS")
-- [Мессенджер](https://github.com/LLStudent83/AHJ_diplom_messenger/ "Продвинутый JS в браузере")
+---
+
+## 💼 Проекты
+
+### 🎮 Игра «Собери шарики»
+**Demo:** https://balls.priguli.ru/  
+**Frontend:** https://github.com/LLStudent83/balls_js  
+**Backend:** https://github.com/LLStudent83/back_bouncing_balls  
+
+**Стек:** React Router v7, Zustand, Zod, Orval, Shadcn, React Query
+
+---
+
+### 🧱 Верстка и JS
+- https://llstudent83.github.io/website-about-John/index.html
+- https://llstudent83.github.io/adaptive-layout/
+- https://llstudent83.github.io/business_card_1/  
+- Онлайн игра (JS)  
+  https://llstudent83.github.io/js-advanced-diplom/
+
+---
+
+## 📬 Контакты
+
+- Почта: *prigulnov@mail.ru*
+- Телеграм: *@Prigulnov_Dmetry*
+
+---
+
+<p align="center">Спасибо, что заглянули! 😊</p>
 
 
-
-_Мои сертификаты:_
-- [Верстка первого макета](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/сертификат%20первый%20макет.pdf)
-- [Основы программирования](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/Сертификат%20основы%20программирования.pdf)
-- [Основы JS в браузере](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/Сертификат%20основы%20JS%20в%20браузере.pdf)
-- [Продвинутый JS в браузере](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/Сертификат%20продвинутый%20JS%20в%20браузере.pdf)
-- [Продвинутый JS современные возможности языка](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/Сертификат%20продвинутый%20JS%20современные%20возможности%20языка.pdf)
-- [React](https://github.com/LLStudent83/LLStudent83/blob/main/certificates/Сертификат%20React.pdf/)
-
-_Моя программа обучения:_
-[программа обучения по направлению Веб разработчик с нуля](https://netology.ru/programs/web-developer#/modul_1)
