@@ -24,11 +24,13 @@
 ## 💼 Проекты
 
 ### 🎮 Игра «Собери шарики»
+Цель - разобраться с новыми технологиями и создать MVP для дельнейшего развития
+
 **Demo:** https://balls.priguli.ru/  
 **Frontend:** https://github.com/LLStudent83/balls_js  
 **Backend:** https://github.com/LLStudent83/back_bouncing_balls  
 
-**Стек:** React Router v7, Zustand, Zod, Orval, Shadcn, React Query
+**Стек:** React-19 Router v7, Zustand, Zod, Orval, Shadcn, React Query
 
 ---
 
