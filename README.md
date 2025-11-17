@@ -11,7 +11,7 @@ React
     https://github.com/LLStudent83/balls_js - фронт
     https://github.com/LLStudent83/back_bouncing_balls - бэк
   
-- [Простой прайс лист](https://github.com/LLStudent83/redux-fetch-router-thunk/ "React, React-router v6, Redux-thunk, RTK")
+- [Простой прайс лист](https://github.com/llstudent83/redux-fetch-router-thunk/ "React, React-router v6, Redux-thunk, RTK")
 - [Тестовое задание - "приложение поиска городов". Применил: "React, Redux-thunk, RTK", Reakt-Table](https://llstudent83.github.io/city_search/ "React, Redux-thunk, RTK")
 
 HTML CSS
